@@ -15,7 +15,7 @@ steps for authentication
 -----------------------------------------
 Initial Setup
 1. firebase: create project
-2. creat web app and
+2. create web app and
 3. get configuration
 4. initialize firebase
 5. Enable auth method 
